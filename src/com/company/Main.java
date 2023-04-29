@@ -8,6 +8,7 @@ public class Main {
 
         String authorizationCode;
         String automationCode;
+        String epicName;
 
         System.out.println(a);
 
