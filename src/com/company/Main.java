@@ -2,15 +2,19 @@ package com.company;
 
 public class Main {
 
+    String authorizationCode;
+    String automationCode;
+    String epicName;
+    String epicTesting;
+
     public static void main(String[] args) {
 
-        int a = 5;
-
-        String authorizationCode;
-        String automationCode;
-        String epicName;
-
-        System.out.println(a);
 
     }
+
+    public static void epicTest(){
+
+
+    }
+
 }
