@@ -7,6 +7,7 @@ public class Main {
         int a = 5;
 
         String authorizationCode;
+        String automationCode;
 
         System.out.println(a);
 
