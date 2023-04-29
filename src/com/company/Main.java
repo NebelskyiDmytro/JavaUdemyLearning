@@ -6,6 +6,8 @@ public class Main {
 
         int a = 5;
 
+        String authorizationCode;
+
         System.out.println(a);
 
     }
